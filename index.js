@@ -480,6 +480,7 @@ function updateModelList() {
         ],
         'google': [
 		    'gemini-2.5-flash-preview-09-2025',
+			'gemini-2.0-flash-exp',
             'gemini-2.5-pro',
             'gemini-2.5-flash',
             'gemini-2.0-flash',
@@ -4357,6 +4358,7 @@ class PresetManager {
 // 전역 인스턴스 생성
 let promptManager = null;
 let presetManager = null;
+
 
 
 
